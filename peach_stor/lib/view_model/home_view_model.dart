@@ -9,10 +9,10 @@ class HomeViewModel extends ChangeNotifier {
 
   final List<String> categories = [
     'All',
-    'Electronics',
+    // 'Electronics',
     'Clothing',
-    'Books',
-    'Home',
+    // 'Books',
+    // 'Home',
   ];
 
   void setSearchQuery(String query) {

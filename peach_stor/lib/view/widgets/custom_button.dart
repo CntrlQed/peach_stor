@@ -27,7 +27,7 @@ class CustomButton extends StatelessWidget {
           ),
         ),
         child: isLoading
-            ? const SizedBox(
+            ? const SizedBox( 
                 height: 20,
                 width: 20,
                 child: CircularProgressIndicator(strokeWidth: 2),

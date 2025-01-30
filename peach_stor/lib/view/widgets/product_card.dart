@@ -42,7 +42,7 @@ class ProductCard extends StatelessWidget {
                     style: Theme.of(context).textTheme.titleMedium,
                     maxLines: 2,
                     overflow: TextOverflow.ellipsis,
-                  ),
+                    ),
                   const SizedBox(height: 4),
                   Text(
                     '\$${price.toStringAsFixed(2)}',

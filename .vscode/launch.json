@@ -1,0 +1,47 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "name": "peach_stor",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "peach_stor (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "peach_stor (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "peach_stor",
+            "cwd": "peach_stor",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "peach_stor (profile mode)",
+            "cwd": "peach_stor",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "peach_stor (release mode)",
+            "cwd": "peach_stor",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
