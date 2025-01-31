@@ -20,4 +20,12 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - peach_stor/assets/peach.png
+    - assets/home_Ad.png
+    - assets/peach.png
+    - assets/home.png
+    - assets/diversity.png
+    - assets/heart.png
+    - assets/successful_delivery.png
+    - assets/person.png
+    - assets/scroll.png
+    - assets/notification.png
