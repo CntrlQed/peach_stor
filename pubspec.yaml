@@ -20,7 +20,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/home_Ad.png
+    - assets/home_Ad.png      
     - assets/peach.png
     - assets/home.png
     - assets/diversity.png
@@ -29,3 +29,5 @@ flutter:
     - assets/person.png
     - assets/scroll.png
     - assets/notification.png
+    - assets/starting.png
+    

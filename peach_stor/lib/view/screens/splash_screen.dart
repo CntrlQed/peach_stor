@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'role_selection_screen.dart';
 import 'get_started_screen.dart';
 
 class SplashScreen extends StatefulWidget {

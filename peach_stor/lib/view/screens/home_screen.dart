@@ -72,7 +72,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     children: [
                       Expanded(
                         child: Image.network(
-                          'https://example.com/tshirt-${index + 1}.jpg', 
+                          'https://cdn.pixabay.com/photo/2016/12/06/09/30/blank-1886001_640.png', 
                           fit: BoxFit.cover,
                         ),
                       ),
